@@ -1,4 +1,4 @@
-# Ethereum 2.0 Specifications
+# 以太坊 2.0 说明
 
 [![Join the chat at https://gitter.im/ethereum/sharding](https://badges.gitter.im/ethereum/sharding.svg)](https://gitter.im/ethereum/sharding?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
